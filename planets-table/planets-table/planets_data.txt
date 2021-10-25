@@ -1,0 +1,143 @@
+Column Headers
+
+        Name
+        Mass (10<sup>24</sup>kg)
+        Diameter (km)
+        Density (kg/m<sup>3</sup>)
+        Gravity (m/s<sup>2</sup>)
+        Length of day (hours)
+        Distance from Sun (10<sup>6</sup>km)
+        Mean temperature (°C)
+        Number of moons
+        Notes
+        Image
+        
+-----------------------        
+        
+Terrestial planets
+
+-----------------------
+
+    Mercury 
+            0.330 mass
+            4,879 Diameter
+            5427 Density
+            3.7 Gravity
+            4222.6 Length of day
+            57.9 Distance from Sun
+            167 mean temperature
+            0 Number of moons
+            Closest to the Sun
+
+    Venus 
+            4.87 mass
+            12,104 Diameter
+            5243 Density
+            8.9 Gravity
+            2802.0 Length of day
+            108.2 Distance from Sun
+            464 mean temperature
+            0 Number of moons
+
+    Earth 
+            5.97 mass
+            12,756 Diameter
+            5514 Density
+            9.8 Gravity
+            24.0  Length of day
+            149.6 Distance from Sun
+            15 mean temperature
+            1 Number of moons
+            Our world
+
+    Mars 
+            0.642 mass
+            6,792 Diameter
+            3933 Density
+            3.7 Gravity
+            24.7 Length of day
+            227.9 Distance from Sun
+            -65 mean temperature
+            2 Number of moons
+            The red planet
+
+-----------------------
+
+Jovian planets
+
+-----------------------
+
+    -----------------------
+    
+    Gas giants
+    
+    -----------------------
+
+        Jupiter 
+                1898 mass
+                142,984 Diameter
+                1326 Density
+                23.1 Gravity
+                9.9 Length of day
+                778.6 Distance from Sun
+                -110 mean temperature
+                67 Number of moons
+                The largest planet
+
+        Saturn 
+                568 mass
+                120,536 Diameter
+                687 Density
+                9.0 Gravity
+                10.7 Length of day
+                1433.5 Distance from Sun
+                -140 mean temperature
+                62 Number of moons
+                Notes
+                Images
+
+    -----------------------
+
+    Ice giants
+    
+    -----------------------
+
+        Uranus 
+                86.8 mass
+                51,118 Diameter
+                1271 Density
+                8.7 Gravity
+                17.2 Length of day
+                2872.5 Distance from Sun
+                -195 mean temperature
+                27 Number of moons
+
+
+        Neptune 
+                102 mass
+                49,528 Diameter
+                1638 Density
+                11.0 Gravity
+                16.1 Length of day
+                4495.1 Distance from Sun
+                -200 mean temperature
+                14 Number of moons
+
+    -----------------------
+
+-----------------------
+
+Dwarf planets
+
+-----------------------
+
+Pluto 
+        0.0146 mass
+        2,370 Diameter
+        2095 Density
+        0.7 Gravity
+        153.3 Length of day
+        5906.4 Distance from Sun
+        -225 mean temperature
+        5 Number of moons
+        Declassified as a planet in 2006, but this <a href="http://www.usatoday.com/story/tech/2014/10/02/pluto-planet-solar-system/16578959/">remains controversial</a>.
